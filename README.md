@@ -40,31 +40,11 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,github,vscode,linux,docker&perline=6" alt="Tech stack icons">
+<img src="https://skillicons.dev/icons?i=python,js,rust,html,css,react,nodejs,git,github,vscode,linux,docker&perline=6" alt="Tech stack icons">
 </div>
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Flecksis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flecksis&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=Flecksis&theme=tokyonight&hide_border=true" alt="GitHub streak stats">
-</div>
-
-<br>
-
-## 📈 Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Flecksis&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph">
-</div>
-
-<br>
 
 ## 🐍 Contribution Snake
 
@@ -77,7 +57,6 @@
 </div>
 
 <br>
-
 ## 🧊 3D Contributions
 
 <div align="center">
@@ -86,24 +65,6 @@
 
 <br>
 
-## 🎧 Currently listening
-
-<div align="center">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=0d1117&bar_color=a855f7" alt="Spotify currently playing">
-</div>
-
-> ⚠️ замени `YOUR_SPOTIFY_ID` на свой реальный ID, иначе виджет не будет работать (получить его можно тут: https://github.com/kittinan/spotify-github-profile)
-
-<br>
-
-## 📫 Contact
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-flecksis-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/flecksis)
-[![GitHub](https://img.shields.io/badge/GitHub-Flecksis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Flecksis)
-
-<br><br>
 
 **thanks for visiting 👾**
 
