@@ -12,7 +12,7 @@
 
 <br><br>
 
-[![Discord](https://img.shields.io/badge/Discord-flecksis-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/flecksis)
+[![Discord](https://img.shields.io/badge/Discord-flecksis-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/556505706014965770)
 [![GitHub](https://img.shields.io/badge/GitHub-Flecksis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Flecksis)
 
 </div>
